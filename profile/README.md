@@ -7,7 +7,7 @@ Here, you’ll find tools, frameworks, and resources that empower organizations 
 ## What We Build
 
 At Vector Institute, our open-source contributions aim to bridge the gap between theoretical research and practical application of AI. 
-We build tools, MVPs, reference implementation and educational resources that empower researchers, developers, and organizations to 
+We build tools, MVPs, reference implementations and educational resources that empower researchers, developers, and organizations to 
 innovate and solve real-world problems with AI. Our projects span various domains and are designed to be accessible, adaptable, and impactful.
 
 Here are a few key projects that exemplify our mission:
