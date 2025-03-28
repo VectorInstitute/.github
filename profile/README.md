@@ -12,7 +12,7 @@ innovate and solve real-world problems with AI. Our projects span various domain
 
 Here are a few key projects that exemplify our mission:
 
-### vector-inference
+### Vector Inference
  [VectorInstitute/vector-inference](https://github.com/VectorInstitute/vector-inference) is a project focused on
 providing efficient and streamlined LLM inference on Slurm clusters. It provides a simple command-line interface and examples
 for deploying LLMs using vLLM.
