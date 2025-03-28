@@ -17,13 +17,13 @@ Here are a few key projects that exemplify our mission:
 providing efficient and streamlined LLM inference on Slurm clusters. It provides a simple command-line interface and examples
 for deploying LLMs using vLLM.
 
-### <img src="../assets/pocket-references-logo.png" alt="AI Pocket Reference Logo" width="64" style="vertical-align: middle; margin-right: 8px;"> AI Pocket Reference
+### AI Pocket Reference
 
 - The [VectorInstitute/ai-pocket-reference](https://github.com/VectorInstitute/ai-pocket-reference) serves as a
 concise and accessible guide to essential AI concepts, algorithms, and techniques. It's designed to be a quick reference for practitioners
 and students, covering a wide range of topics ranging from basics to advanced SOTA approaches.
 
-### <img src="../assets/reference-implementations-logo.png" alt="Reference Implementation Catalog Logo" width="64" style="vertical-align: middle; margin-right: 8px;"> Reference Implementation Catalog
+### Reference Implementation Catalog
 
 - The [VectorInstitute/reference-implementation-catalog](https://github.com/VectorInstitute/reference-implementation-catalog)
 offers a curated collection of reference implementations for various AI algorithms and models. This catalog provides practical, working examples
