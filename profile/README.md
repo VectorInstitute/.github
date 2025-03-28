@@ -12,18 +12,18 @@ innovate and solve real-world problems with AI. Our projects span various domain
 
 Here are a few key projects that exemplify our mission:
 
-### Vector Inference
+### <img src="../assets/vector-inference-logo.png" alt="Vector Inference Logo" width="30" style="vertical-align: middle; margin-right: 8px; opacity: 0.9;"> Vector Inference
 - [VectorInstitute/vector-inference](https://github.com/VectorInstitute/vector-inference) is a project focused on
 providing efficient and streamlined LLM inference on Slurm clusters. It provides a simple command-line interface and examples
 for deploying LLMs using vLLM.
 
-### AI Pocket Reference <img src="../assets/pocket-references-logo.png" alt="AI Pocket Reference Logo" width="100" style="vertical-align: text-bottom;">
+### <img src="../assets/pocket-references-logo.png" alt="AI Pocket Reference Logo" width="30" style="vertical-align: middle; margin-right: 8px;"> AI Pocket Reference
 
 - The [VectorInstitute/ai-pocket-reference](https://github.com/VectorInstitute/ai-pocket-reference) serves as a
 concise and accessible guide to essential AI concepts, algorithms, and techniques. It's designed to be a quick reference for practitioners
 and students, covering a wide range of topics ranging from basics to advanced SOTA approaches.
 
-### Reference Implementation Catalog <img src="../assets/reference-implementations-logo.png" alt="Reference Implementation Catalog Logo" width="100" style="vertical-align: text-bottom;">
+### <img src="../assets/reference-implementations-logo.png" alt="Reference Implementation Catalog Logo" width="30" style="vertical-align: middle; margin-right: 8px;"> Reference Implementation Catalog
 
 - The [VectorInstitute/reference-implementation-catalog](https://github.com/VectorInstitute/reference-implementation-catalog)
 offers a curated collection of reference implementations for various AI algorithms and models. This catalog provides practical, working examples
