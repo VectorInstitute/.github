@@ -23,10 +23,10 @@ for deploying LLMs using vLLM.
 concise and accessible guide to essential AI concepts, algorithms, and techniques. It's designed to be a quick reference for practitioners
 and students, covering a wide range of topics ranging from basics to advanced SOTA approaches.
 
-### Reference Implementation Catalog
+### Implementation Catalog
 
-- The [VectorInstitute/reference-implementation-catalog](https://github.com/VectorInstitute/reference-implementation-catalog)
-offers a curated collection of reference implementations for various AI algorithms and models. This catalog provides practical, working examples
+- The [VectorInstitute/reference-implementation-catalog](https://github.com/VectorInstitute/implementation-catalog)
+offers a curated collection of implementations for various AI algorithms and models. This catalog provides practical, working examples
 that demonstrate how to implement these techniques in code. It's an invaluable resource for those looking to understand and apply AI algorithms
 to their problems and datasets.
 
