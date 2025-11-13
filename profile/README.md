@@ -13,15 +13,9 @@ innovate and solve real-world problems with AI. Our projects span various domain
 Here are a few key projects that exemplify our mission:
 
 ### Vector Inference
- [VectorInstitute/vector-inference](https://github.com/VectorInstitute/vector-inference) is a project focused on
+- [VectorInstitute/vector-inference](https://github.com/VectorInstitute/vector-inference) is a project focused on
 providing efficient and streamlined LLM inference on Slurm clusters. It provides a simple command-line interface and examples
 for deploying LLMs using vLLM.
-
-### AI Pocket Reference
-
-- The [VectorInstitute/ai-pocket-reference](https://github.com/VectorInstitute/ai-pocket-reference) serves as a
-concise and accessible guide to essential AI concepts, algorithms, and techniques. It's designed to be a quick reference for practitioners
-and students, covering a wide range of topics ranging from basics to advanced SOTA approaches.
 
 ### Implementation Catalog
 
