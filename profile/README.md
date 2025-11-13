@@ -17,12 +17,14 @@ Here are a few key projects that exemplify our mission:
 providing efficient and streamlined LLM inference on Slurm clusters. It provides a simple command-line interface and examples
 for deploying LLMs using vLLM.
 
-### Implementation Catalog
+### FL4Health
+- [VectorInstitute/FL4Health](https://github.com/VectorInstitute/FL4Health) is a comprehensive federated learning research framework
+designed to enable privacy-preserving machine learning across distributed healthcare datasets. It provides flexible implementations
+of federated learning algorithms, supporting researchers and practitioners in building secure, collaborative AI systems for healthcare applications.
 
-- The [VectorInstitute/implementation-catalog](https://github.com/VectorInstitute/implementation-catalog)
-offers a curated collection of implementations for various AI algorithms and models. This catalog provides practical, working examples
-that demonstrate how to implement these techniques in code. It's an invaluable resource for those looking to understand and apply AI algorithms
-to their problems and datasets.
+## Browse Our Implementation Catalog
+
+Explore the [**Vector Implementation Catalog**](https://catalog.vectorinstitute.ai/) — a showcase of several AI implementations across topics and domains. Each implementation includes links to GitHub repositories, associated datasets, and research papers, making it easy to reproduce and build upon our work.
 
 ## Why Open Source?
 
